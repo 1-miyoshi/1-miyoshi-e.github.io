@@ -1,20 +1,19 @@
 ---
 permalink: /
-title: "三好 智也"
+title: "Tomoya Miyoshi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-博士（工学）
-講師,
-立命館大学
-理工学部 機械工学科
+Ph.D
+Leturer,
+College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University
 
-[論文一覧]({{ site.baseurl }}/publications/){: .btn .btn--info}
-[学会発表]({{ site.baseurl }}/talks/){: .btn .btn--info}
-[教育実績]({{ site.baseurl }}/teaching/){: .btn .btn--info}
-[研究助成]({{ site.baseurl }}/grants/){: .btn .btn--info}
+[Publication list]({{ site.baseurl }}/publications/){: .btn .btn--info}
+[Presentations]({{ site.baseurl }}/talks/){: .btn .btn--info}
+[Education]({{ site.baseurl }}/teaching/){: .btn .btn--info}
+[Grants]({{ site.baseurl }}/grants/){: .btn .btn--info}
 
 ## 研究分野
 エナジーハーベスティング，MEMS, エレクトレット，機能性流体，流体アクチュエータ，物理リザバー計算
