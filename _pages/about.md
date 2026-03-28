@@ -3,8 +3,8 @@ permalink: /
 title: "三好 智也"
 author_profile: true
 redirect_from: 
-  - {{ site.baseurl }}/about/
-  - {{ site.baseurl }}/about.html
+  - /about/
+  - /about.html
 ---
 博士（工学）
 講師,
