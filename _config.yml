@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Top page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tomoya Miyoshi"
-description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Research on electret-based energy harvesting, MEMS, and physical reservoir computing."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://1-miyoshi.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            #https://1-miyoshi.github.io/1-miyoshi-e.github.io or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/1-miyoshi-e.github.io" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "miyoshi20260328s.png"
   name             : "Tomoya Miyoshi"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D., Lecturer, College of Science and Engineering, Department of Mechanical Engineering"
+  bio              : "Ph.D., Lecturer, Department of Mechanical Engineering, College of Science and Engineering, Ritsumeikan University"
   location         : "Kusatsu, Shiga, Japan"
   employer         : "Ritsumeikan University"
   uri              : # URL
