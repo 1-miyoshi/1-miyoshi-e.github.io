@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Ph.D
-Leturer,
+Lecturer,
 College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University
 
 [Publication list]({{ site.baseurl }}/publications/){: .btn .btn--info}
@@ -15,24 +15,25 @@ College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan 
 [Education]({{ site.baseurl }}/teaching/){: .btn .btn--info}
 [Grants]({{ site.baseurl }}/grants/){: .btn .btn--info}
 
-## 研究分野
-エナジーハーベスティング，MEMS, エレクトレット，機能性流体，流体アクチュエータ，物理リザバー計算
+## Research Interest
+Energy Harvesting，MEMS, Electret，Functional Fluid，Fluidic Acuator，Physical Reservoir Computing
 
-## 連絡先
-* 居室: 滋賀県草津市野路東1-1-1 イーストウイング7階 710号室  
+## Contacts
+* Address: EW710 1-1-1 Noji-Higashi, Kusatsu, Shiga 525-8577 JAPAN
 * E-mail: tmiyoshi (at) fc.ritsumei.ac.jp
-（at）を＠に変換してください
-* TEL: 077-561-2819 (内線：8273)
+* TEL: 077-561-2819 (Ext: 8273)
 
-## 略歴
-* 2026年4月 ~ 現在 	立命館大学　理工学部　機械工学科　講師
-* 2017年11月 ~ 2026年3月 	東京大学　大学院工学系研究科　機械工学専攻　特任助教
-* 2019年1月 ~ 2019年3月 	ケント州立大学　液晶研究所　Visiting Scientist
-* 2017年4月 ~ 10月 	東京大学　大学院工学系研究科　機械工学専攻　特任研究員　ポスドク
-* 2017年3月 	東京工業大学　工学部（博士課程）　総合理工学研究科　メカノマイクロ工学専攻　修了
-* 2014年3月 	東京工業大学　工学部（修士課程）　総合理工学研究科　メカノマイクロ工学専攻　修了
-* 2012年3月 	東京工業大学　工学部　機械知能システム学科　卒業
-* 2010年3月 	香川高等専門学校　制御情報工学科　卒業
+## Education and Qualifications
+* 1/2019 - 3/2019  Visiting Scientist, Advanced Materials Liquid Crystal Institute, Kent State University, USA
+* 3/2017  Dr. Eng., Tokyo Institute of Technology
+* 3/2014  M. Eng., Tokyo Institute of Technology
+* 3/2012  Bs. Eng., Tokyo Institute of Technology
+* 4/2005 - 3/2010  National Institute of Technology, Kagawa College
 
-## 関連リンク
-* [山根研究室](https://www.yamane.se.ritsumei.ac.jp/){: .btn .btn--info}
+## Working Experience
+* 4/2026 ~ Present 	Lecturer, Ritsumeikan University
+* 11/2017 - 3/2026  Project Assistant Professor, The University of Tokyo
+* 4/2017 - 10/2017  Project Researcher, Postdoc, The University of Tokyo
+
+## Links
+* [Yamane lab](https://www.yamane.se.ritsumei.ac.jp/en/){: .btn .btn--info}
