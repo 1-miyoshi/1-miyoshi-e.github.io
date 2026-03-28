@@ -3,18 +3,18 @@ permalink: /
 title: "三好 智也"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - {{ site.baseurl }}/about/
+  - {{ site.baseurl }}/about.html
 ---
 博士（工学）
 講師,
 立命館大学
 理工学部 機械工学科
 
-[論文一覧](/publications/){: .btn .btn--info}
-[学会発表](/talks/){: .btn .btn--info}
-[教育実績](/teaching/){: .btn .btn--info}
-[研究助成](/grants/){: .btn .btn--info}
+[論文一覧]({{ site.baseurl }}/publications/){: .btn .btn--info}
+[学会発表]({{ site.baseurl }}/talks/){: .btn .btn--info}
+[教育実績]({{ site.baseurl }}/teaching/){: .btn .btn--info}
+[研究助成]({{ site.baseurl }}/grants/){: .btn .btn--info}
 
 ## 研究分野
 エナジーハーベスティング，MEMS, エレクトレット，機能性流体，流体アクチュエータ，物理リザバー計算
