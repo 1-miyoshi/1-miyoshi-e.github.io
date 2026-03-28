@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D
+Ph.D,
 Lecturer,
 College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University
 
