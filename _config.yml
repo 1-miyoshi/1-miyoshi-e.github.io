@@ -24,11 +24,11 @@ repository               : "1-miyoshi/1-miyoshi-e.github.io"
 author:
   # Biographic information
   avatar           : "miyoshi20260328s.png"
-  name             : "三好 智也E"
+  name             : "Tomoya Miyoshi"
   pronouns         : # example: "she/her"  
-  bio              : "博士（工学）, 立命館大学 理工学部 機械工学科 講師"
-  location         : "滋賀県草津市"
-  employer         : "立命館大学"
+  bio              : "Ph.D , Lecturer, College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University"
+  location         : "Kusatsu, Shiga, JAPAN"
+  employer         : "Ritsumeikan University"
   uri              : # URL
   email            : "tmiyoshi (at) fc.ritsumei.ac.jp"
   orcid            : "0000-0002-2310-4377"
