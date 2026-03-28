@@ -15,6 +15,7 @@ Ritsumeikan University
 [Presentations]({{ site.baseurl }}/talks/){: .btn .btn--info}
 [Education]({{ site.baseurl }}/teaching/){: .btn .btn--info}
 [Grants]({{ site.baseurl }}/grants/){: .btn .btn--info}
+[Awards]({{ site.baseurl }}/awards/){: .btn .btn--info}
 
 ## Research Interests
 Energy Harvesting, MEMS, Electrets, Functional Fluids, Fluidic Actuators, Physical Reservoir Computing
