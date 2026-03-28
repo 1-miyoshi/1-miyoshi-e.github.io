@@ -6,12 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D. 
-
-Lecturer
-
-College of Science and Engineering, Department of Mechanical Engineering
-
+Ph.D.  
+Lecturer  
+College of Science and Engineering, Department of Mechanical Engineering  
 Ritsumeikan University
 
 [Publication list]({{ site.baseurl }}/publications/){: .btn .btn--info}
