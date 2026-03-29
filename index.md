@@ -38,4 +38,4 @@ Energy Harvesting, MEMS, Electrets, Functional Fluids, Fluidic Actuators, Physic
 * Apr. 2017 - Oct. 2017  Project Researcher (Postdoctoral), The University of Tokyo
 
 ## Links
-* [Yamane Lab](https://www.yamane.se.ritsumei.ac.jp/en/){: .btn .btn--info}
+* [Yamane Group, Ritsumeikan Univ.](https://www.yamane.se.ritsumei.ac.jp/en/){: .btn .btn--info}
