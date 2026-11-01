@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Ph.D  
-Lecturer,
+Lecturer,  
 College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University  
 Assistant Professor (Cross appointment),  
 Graduate School of Information Science and Technology, The University of Tokyo  
