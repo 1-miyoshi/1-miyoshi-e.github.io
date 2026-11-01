@@ -9,6 +9,8 @@ redirect_from:
 Ph.D
 Lecturer,
 College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University
+Assistant Professor (Cross appointment)
+Graduate School of Information Science and Technology, The University of Tokyo
 
 [Publication list]({{ site.baseurl }}/publications/){: .btn .btn--info}
 [Presentations]({{ site.baseurl }}/talks/){: .btn .btn--info}
@@ -23,6 +25,12 @@ Energy Harvesting，MEMS, Electret，Functional Fluid，Fluidic Acuator，Physic
 * E-mail: tmiyoshi (at) fc.ritsumei.ac.jp
 * TEL: 077-561-2819 (Ext: 8273)
 
+## Working Experience
+* 10/2026 ~ Present 	Assistant Professor (Cross appointment),　Graduate School of Information Science and Technology, The University of Tokyo
+* 4/2026 ~ Present 	Lecturer, College of Science and Engineering, Ritsumeikan University
+* 11/2017 - 3/2026  Project Assistant Professor, Graduate School of Engineering, The University of Tokyo
+* 4/2017 - 10/2017  Project Researcher, Postdoc, Graduate School of Engineering, The University of Tokyo
+
 ## Education and Qualifications
 * 1/2019 - 3/2019  Visiting Scientist, Advanced Materials Liquid Crystal Institute, Kent State University, USA
 * 3/2017  Dr. Eng., Tokyo Institute of Technology
@@ -30,10 +38,6 @@ Energy Harvesting，MEMS, Electret，Functional Fluid，Fluidic Acuator，Physic
 * 3/2012  Bs. Eng., Tokyo Institute of Technology
 * 4/2005 - 3/2010  National Institute of Technology, Kagawa College
 
-## Working Experience
-* 4/2026 ~ Present 	Lecturer, Ritsumeikan University
-* 11/2017 - 3/2026  Project Assistant Professor, The University of Tokyo
-* 4/2017 - 10/2017  Project Researcher, Postdoc, The University of Tokyo
-
 ## Links
+* [Nakajima lab](https://www.kohei-nakajima.com/){: .btn .btn--info}
 * [Yamane lab](https://www.yamane.se.ritsumei.ac.jp/en/){: .btn .btn--info}
