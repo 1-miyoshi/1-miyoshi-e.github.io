@@ -8,9 +8,9 @@ redirect_from:
 ---
 Ph.D
 Lecturer,
-College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University
-Assistant Professor (Cross appointment)
-Graduate School of Information Science and Technology, The University of Tokyo
+College of Science and Engineering, Dep. of Mechanical Engineering, Ritsumeikan University  
+Assistant Professor (Cross appointment),  
+Graduate School of Information Science and Technology, The University of Tokyo  
 
 [Publication list]({{ site.baseurl }}/publications/){: .btn .btn--info}
 [Presentations]({{ site.baseurl }}/talks/){: .btn .btn--info}
